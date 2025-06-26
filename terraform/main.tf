@@ -6,6 +6,6 @@ provider "aws" {
 }
 
 resource "aws_instance" "myec2" {
-  ami           = "3"
+  ami           = "2"
   instance_type = "3"
 }
