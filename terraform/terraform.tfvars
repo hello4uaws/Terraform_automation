@@ -1,0 +1,1 @@
+myresourcegroup_name = "tert"
